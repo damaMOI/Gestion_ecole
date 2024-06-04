@@ -1,0 +1,2 @@
+C:\Users\Dama\Documents\C#\Gestion_Ecole\obj\Debug\Gestion_Ecole.csproj.AssemblyReference.cache
+C:\Users\Dama\Documents\C#\Gestion_Ecole\obj\Debug\Gestion_Ecole.csproj.CoreCompileInputs.cache
